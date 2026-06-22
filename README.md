@@ -27,8 +27,8 @@ A responsive DOM manipulation project built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-Add your deployed project link here.
+https://dom-manipulation-playground.vercel.app/
 
 ## GitHub Repository
 
-Add your GitHub repository link here.
+https://github.com/mfarhanahmedcode/dom-manipulation-playground/tree/main
